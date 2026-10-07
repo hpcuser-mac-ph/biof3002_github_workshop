@@ -1,11 +1,12 @@
 # recipes
 
 # ingredients
-* lemmon
-* lime
+* lemon
+* avocado ($0.3/unit)
+* lime($0.2/unit)
 * peppers
 * salt
-
+** $ is in usd.
 
 ## instructions
 
